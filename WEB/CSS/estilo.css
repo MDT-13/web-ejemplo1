@@ -1,0 +1,14 @@
+body{
+     background-color:#FF4E08;
+     color:white;
+}
+h1{
+          font-family: arial;
+          font-size: 45px;
+}
+#mew{
+    width: 240px;
+    height:220px;
+    border-radius: 50%;
+    border: 5px solid #000000
+}
