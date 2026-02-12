@@ -1,0 +1,51 @@
+body{
+     background-color:#FF4E08;
+     color:white;
+}
+h1{
+          font-family: arial;
+          font-size: 45px;
+          color:pink;
+          text-align: center;
+}
+h2, h3, p{
+      text-align:center;
+}
+#mew{
+    width: 240px;
+    height:220px;
+    border-radius: 50%;
+    border: 5px solid #000000
+}
+img{
+   display: block;
+    margin: 0 auto;
+}
+#crono{
+     display: block;
+     margin:0 auto;
+     color.black;
+     background-color: #ffh000;
+     padding: 15px 32px
+}
+#mew:hover {
+  box-shadow: 0 0 2px 1px blue;
+  transform: scale(1.5);
+}
+#crono:hover{
+  background-color:blue;
+}
+#tabla1 tr:hover {
+  background-color: pink;
+}
+.noticias{
+  border: 5px ridge #FF0000;
+  background-color: #000000;
+  padding: 2px;
+  display: flex,
+  flex-direction: column;
+}
+.noticias p {
+ font-family: Fantasy;
+ text-aling: center;
+}

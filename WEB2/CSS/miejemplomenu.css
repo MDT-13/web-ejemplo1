@@ -1,0 +1,21 @@
+.menu {
+  background-color: #333333;
+}
+.menu ul {
+  list-style: nome;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+.menu li {
+  margin: 0;
+}
+.menu a {
+  display: block;
+  padding: 15px 20px;
+  color: white;
+  text-decoration: none;
+}
+.menu a:hove {
+  background-color: #555555;
+}
